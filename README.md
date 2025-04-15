@@ -36,7 +36,7 @@ VocaBuddy is your smart assistant inside TongUp. It offers:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/tongup.git
+git clone https://github.com/ErenYlskn/TongUp
 cd tongup
 npm install
 npm run start
